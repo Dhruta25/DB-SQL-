@@ -6,4 +6,5 @@ INSERT INTO department(dept_name,location) VALUES
 
 INSERT INTO employees(name,department,salary) VALUES
 ('Dhruta','SDE', 100000 ),
-('saloni','SDE-II',200000);
+('saloni','SDE-II',200000),
+('Ritik','Analyst',75000);
