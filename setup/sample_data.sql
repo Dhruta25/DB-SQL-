@@ -11,4 +11,5 @@ INSERT INTO employees(name,department,salary) VALUES
 
 INSERT INTO project(project_id,project_name,budget) VALUES
 (1000345,'react_App',200000),
-(834789,'flutter',100000);
+(834789,'flutter',100000),
+(46833,'game_development',400000);
