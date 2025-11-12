@@ -1,13 +1,4 @@
--- filtering_sorting.sql
--- 🧠 Beginner-friendly examples for filtering and sorting data in SQL
 
--- Let's assume we have a table named 'employees':
--- employees(
---     emp_id INT,
---     name VARCHAR(50),
---     department VARCHAR(50),
---     salary DECIMAL(10,2)
--- );
 
 -----------------------------------------------------
 -- 1️⃣ Show all employees
