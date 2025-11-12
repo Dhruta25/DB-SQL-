@@ -79,7 +79,3 @@ SELECT
     d.dept_name AS department_name
 FROM employees AS e
 CROSS JOIN departments AS d;
-
--- 🔍 Explanation:
--- CROSS JOIN returns all possible combinations.
--- Useful for testing or generating combinations.
