@@ -68,9 +68,7 @@ SELECT *
 FROM employees
 WHERE department = 'Sales' OR department = 'Marketing';
 
------------------------------------------------------
--- 🔟 Show only selected columns, sorted alphabetically by name
------------------------------------------------------
+----------------------------
 SELECT emp_id, name, department
 FROM employees
 ORDER BY name ASC;
