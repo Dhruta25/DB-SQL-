@@ -57,9 +57,8 @@ FROM employees
 WHERE department = 'IT'
 ORDER BY salary DESC;
 
------------------------------------------------------
 -- 9️⃣ Combine multiple conditions using AND / OR
------------------------------------------------------
+
 SELECT *
 FROM employees
 WHERE department = 'HR' AND salary > 40000;
